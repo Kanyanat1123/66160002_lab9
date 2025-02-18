@@ -1,5 +1,3 @@
-script.js (โหลดรายชื่อผู้ใช้)
-
 document.addEventListener("DOMContentLoaded", async () => {
     const userList = document.getElementById("user-list");
 
